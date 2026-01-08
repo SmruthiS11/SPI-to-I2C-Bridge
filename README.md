@@ -31,3 +31,8 @@ Timing and Design constraints
 ### Reports
 #### `area.rpt`, `power.rpt`, `timing.rpt`
 Area, Power and Timing reports
+
+## Tools Used (Cadence)
+- Simulation Tool : ncverilog
+- Code Coverage Check in ncverilog : Incisive Metrics Center (IMC)
+- Sythesis Tool : Genus
